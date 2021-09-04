@@ -43,19 +43,16 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- SCENARIO1 -->
-<h2 id="scenario1"> :small_orange_diamond: Scenario 1: Finding a Fixed Food Dot using Depth First Search</h2>
+<h2 id="scenario1"> :small_orange_diamond: Scenario 1: First Project</h2>
 
+<!-- 
 <p>I have implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
 <p>The Pacman will quickly find a solution via running the following commands:</p>
 
 <pre><code>$ python pacman.py -l tinyMaze -p SearchAgent</code></pre>
 <pre><code>$ python pacman.py -l mediumMaze -p SearchAgent</code></pre>
 <pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent</code></pre>
-
-<p align="center"> 
-<img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="282px" width="637px">
-<!--height="382px" width="737px"-->
-</p>
+-->
 
 
 
